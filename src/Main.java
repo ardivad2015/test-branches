@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Test dev");
         System.out.println("finish");
         System.out.println("start");
+        System.out.println("finish2");
     }
 }
